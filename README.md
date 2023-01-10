@@ -1,16 +1,12 @@
-# search_list
+# Search Function in List View
 
-A new Flutter project.
+An exmaple project implemented to approach search funcionality in ListView/ListView Builder.
 
-## Getting Started
+## Results
+<p>
+<img src="./Results/img1.png" width="250" height="550" />
+&nbsp;
+&nbsp;
+<img src="./Results/img2.png" width="250" height="550" />
+</p>
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
