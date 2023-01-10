@@ -85,15 +85,15 @@ class _HomePageState extends State<HomePage> {
 
             //* search bar
             Padding(
-              padding: const EdgeInsets.symmetric(horizontal: 20),
-              child: TextField(
+              padding: const EdgeInsets.symmetric(horizontal: 10),
+              child: TextFormField(
                 onChanged: (value) => updateList(value),
                 controller: _controller,
                 decoration: InputDecoration(
                   hintText: "Search by Movie Title",
                   hintStyle: GoogleFonts.notoSerif(
                     color: Colors.black,
-                    fontSize: 20,
+                    fontSize: 18,
                   ),
                   filled: true,
                   prefixIcon: const Icon(
